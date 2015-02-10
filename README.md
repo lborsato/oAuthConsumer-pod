@@ -1,13 +1,13 @@
 # OAuthConsumer
 
-[![CI Status](http://img.shields.io/travis/Larry Borsato/OAuthConsumer.svg?style=flat)](https://travis-ci.org/Larry Borsato/OAuthConsumer)
+[![CI Status](http://img.shields.io/travis/lborsato/oAuthConsumer-pod.svg?style=flat)](https://travis-ci.org/lborsato/oAuthConsumer-pod)
 [![Version](https://img.shields.io/cocoapods/v/OAuthConsumer.svg?style=flat)](http://cocoadocs.org/docsets/OAuthConsumer)
 [![License](https://img.shields.io/cocoapods/l/OAuthConsumer.svg?style=flat)](http://cocoadocs.org/docsets/OAuthConsumer)
 [![Platform](https://img.shields.io/cocoapods/p/OAuthConsumer.svg?style=flat)](http://cocoadocs.org/docsets/OAuthConsumer)
 
 ## Usage
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+There are myriad examples of OAuthConsumer usage available on the web.
 
 ## Requirements
 
