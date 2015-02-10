@@ -63,7 +63,7 @@ This is a work in progress. Please feel free to contact me at larry [at] larrybo
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
-  s.source_files = 'Classes/*.{m.h}'
+  s.source_files = 'Classes/*'
   s.resource_bundles = {
     'OAuthConsumer' => ['Pod/Assets/*.png']
   }
