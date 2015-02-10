@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "OAuthConsumer"
-  s.version          = "1.0.1"
+  s.version          = "1.0.2"
   s.summary          = "OAuthConsumer is an iPhone-ready iOS 8.0 compatible, ARC-supported OAuth implementation."
   s.description      = <<-DESC
 #OAuthConsumer
