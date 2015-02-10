@@ -53,11 +53,11 @@ OADataFetcher now also includes the ability to use blocks in addition to delegat
 
 This is a work in progress. Please feel free to contact me at larry [at] larryborsato [dot] com.
                        DESC
-  s.homepage         = "https://github.com/lborsato/OAuthConsumer"
+  s.homepage         = "https://github.com/lborsato/oAuthConsumer-pod"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Larry Borsato" => "larry@larryborsato.com" }
-  s.source           = { :git => "https://github.com/lborsato/OAuthConsumer.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/lborsato/oAuthConsumer-pod.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/lborsato'
 
   s.platform     = :ios, '7.0'
